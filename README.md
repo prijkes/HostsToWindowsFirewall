@@ -20,7 +20,7 @@ To compile and use this project, you will need:
 
 ## Installation
 
-1. Clone the repository to your local machine using `git clone https://github.com/prijkes/windows-hosts-firewall-tool.git`
+1. Clone the repository to your local machine using `git clone https://github.com/prijkes/HostsToWindowsFirewall.git`
 2. Open the project in Visual Studio.
 3. Ensure that the WindowsFirewallHelper NuGet package is installed. If not, install it via the NuGet Package Manager.
 4. Build the project by selecting `Build > Build Solution` from the menu.
